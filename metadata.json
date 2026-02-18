@@ -1,0 +1,7 @@
+{
+  "name": "SFMC Learning Hub",
+  "description": "An interactive educational platform for Salesforce Marketing Cloud featuring documentation, video resources, quizzes, and AI-powered practical exercise validation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
